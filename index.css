@@ -1,0 +1,64 @@
+body{
+	background-color:#303434;
+	text-align: center;
+}
+
+#fldst1{
+	background-color: #1C1C1C;
+    color: #FFF9EB;
+    border-color: #8ECBBD;
+    text-align: left;
+	font-family: "Verdana";
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold
+}
+
+#favorites1{
+	background-color: #1C1C1C;
+    color: #FFF9EB;
+    border-color: #8ECBBD;
+    text-align: left;
+	font-family: "Verdana";
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: bold
+}
+
+#favorites2{
+	background-color: #1C1C1C;
+    color: #FFF9EB;
+    border-color: #8ECBBD;
+    text-align: right;
+	font-family: "Verdana";
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: bold
+}
+
+.lgnd1{
+	color: white;
+	text-align: center;
+	font-family: "Helvetica";
+	font-size: 40px;
+	text-transform: uppercase;
+	font-weight: bold
+}
+
+.lgnd2{
+	color: #8ECBBD;
+	text-align: left;
+	font-family: "Helvetica";
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold
+}
+
+.lgnd3{
+	color: #8ECBBD;
+	text-align: right;
+	font-family: "Helvetica";
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold
+}
